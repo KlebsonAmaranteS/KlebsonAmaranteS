@@ -9,7 +9,7 @@
 
 ![Klebson GitHub stats](https://github-readme-stats.vercel.app/api?username=klebsonamarantes&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klebsonamarantes&layout=compact)](https://github.com/KlebsonAmaranteS/github-readme-stats)
+
 
 ## Tecnologias que uso no meu dia
 
