@@ -7,8 +7,6 @@
 )](https://www.linkedin.com/in/klebson-amarante-6068671b7/)
 
 
-![Klebson GitHub stats](https://github-readme-stats.vercel.app/api?username=klebsonamarantes&show_icons=true&theme=onedark)
-
 
 
 ## Tecnologias que uso no meu dia
