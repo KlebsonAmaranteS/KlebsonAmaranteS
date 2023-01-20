@@ -1,28 +1,44 @@
-### Olá! Eu sou Klebson Amarante ✋ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=header"/>
 
-## Minhas redes sociais:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=45C4B0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Klebson+Amarante;I'm+20+years+old;I'm+from+Brazil;I+Student+Computer+Cience;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/klebsonamarante)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/klebson-amarante-6068671b7/)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=KlebsonAmaranteS&bg_color=000000&color=ffffff&line=DAFDBA&point=13678A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KlebsonAmaranteS&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
-## Tecnologias que uso no meu dia
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="Excell" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img align="center" alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-
- 
-  
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=KlebsonAmaranteS&show_icons=true&count_private=true&hide_border=true&title_color=DAFDBA&icon_color=9AEBA3&text_color=c9d1d9&bg_color=0d1117" alt="Klebson Amarante github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KlebsonAmaranteS&layout=compact&hide_border=true&title_color=DAFDBA&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-<br>Apaixonado por tecnologia, conhecimento e educação<br/>
+
+<div align="center"> 
+<a href="https://instagram.com/klebsonamarante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.klebsonamaarante6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/klebsonamarante/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0d1117)&nbsp;
+
+
+### Studying in this moment:
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KlebsonAmaranteS}/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=13678A&height=120&section=footer"/>
